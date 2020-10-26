@@ -1,4 +1,4 @@
-# Linc-Datasets
+# Linc Datasets
 Intro..
 
 ## Data Acquisition
