@@ -1,11 +1,24 @@
+# NILM Introduction 
+Research on Smart Grids has recently focused on the energy monitoring issue, with the objective of maximizing the user consumption awareness in building contexts on the one hand, and providing utilities with a detailed description of customer habits on the other.
+NILM refers to those techniques aimed at decomposing the consumption-aggregated data acquired at a single point of measurement into the diverse consumption profiles of appliances operating in the electrical system under study.
+
 # Linc Datasets
-Intro..
+Every  problem  to  be  solved  with  machine  learning  and  data  mining  techniques requires the availability of data for algorithm parametrization: the ability to accesspublic dataset, representative of a real scenario, allows to test the approaches, inorder  to  evaluate  the  effective  benefit  in  real  applications,  and  to  compare  the performance  of  existing  approaches  on  a  common  comparison  basis.  In  order to  evaluate  the  effectiveness  of  the  algorithms  and  the  performance  about  the disaggregation task, both aggregate and appliance specific data, which represent the ground truth, are required.
+
 
 ## Data Acquisition
-About Linc device..
+
 
 ## Data Structure
-Parameters..
+Time
+Current
+Crest_factor_current
+Energy
+Inrush_current
+Power_factor
+Thd_current
+Power_apparent
+Power_real
 
 ## Dataset Descriptions
 
